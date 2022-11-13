@@ -1,0 +1,11 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [],
+  "appState": {
+    "gridSize": 20,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
